@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* fontes */
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans:ital@1&family=Jost&display=swap');
+
+
+body{
+    background-color: hsl(212, 45%, 89%);
+    width: 1440px;
+    /* font-family: 'Alegreya Sans', sans-serif; */
+/* font-family: 'Jost', sans-serif; */
+    
+}
+
+.camada{
+    background-color: hsl(0, 0%, 100%);
+    display: inline-block;
+    position: absolute;
+    top: 50px;
+    left: 400px;
+    height:600px;
+    width: 450px;
+    border-radius: 20px;
+    padding: 12px;
+    text-align: center;
+    
+}
+
+img{
+    position: relative;
+    
+  
+   border-radius: 30px;
+   width: 400px;
+   height: 400px;
+   margin: 20px 0;
+
+}
+
+h1{
+    font-family: 'Alegreya Sans', sans-serif;
+    font-weight: 700;
+    font-size: 2rem;
+}
+
+p{
+    font-family: 'Jost', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+}
+
+
+
+
+
+
+/* footer */
+
+.attribution{
+    
+    position: relative;
+    top: 700px;
+    right: 100px;
+}
