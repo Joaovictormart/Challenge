@@ -1,0 +1,3 @@
+*oi amigos
+
+print("somente eu e vc ")
