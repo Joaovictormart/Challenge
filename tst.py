@@ -1,4 +1,5 @@
 #PEDRA PAPEL E TESOURA
+
 import random
 def start():
      jogador = input('Qual o seu nome jogador? ')
@@ -50,3 +51,4 @@ start()
 
 
 
+print("so exitem eu e voce amigão")
